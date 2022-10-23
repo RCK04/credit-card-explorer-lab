@@ -1,11 +1,9 @@
 /* CC  */
 .cc {
-    background: no-repeat center/cover;
-    background-image: url("/src/images/cc-.svg");
+    background: url("/src/images/cc-.svg") no-repeat center/cover;
     width: 36rem;
     height: 23rem;
     padding: 2rem;
-  
     display: flex;
     flex-direction: column;
     justify-content: space-between;
