@@ -3,6 +3,7 @@ form {
     max-width: 36rem;
     display: grid;
     gap: 1.6rem;
+
   }
   
   form .input-wrapper {

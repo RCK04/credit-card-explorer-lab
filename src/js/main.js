@@ -89,7 +89,7 @@ const addButton = document.querySelector('#add-card')
 
 addButton.addEventListener('click', () => {
  alert('Cartão adicionado!') 
-
+ 
 })
 
 document.querySelector('form').addEventListener('submit', (event) => {
@@ -136,3 +136,4 @@ function updateDate(date){
 
     ccDate.innerText = date.length === 0 ? '02/32' : date
 }
+
